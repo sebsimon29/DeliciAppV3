@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910874173697",
+    "project_id": "deliciapp-62ebc",
+    "storage_bucket": "deliciapp-62ebc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910874173697:android:aa287336b7fccc02babb00",
+        "android_client_info": {
+          "package_name": "com.example.deliciapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrqVujOe8eWzjXTGl7YODuzxtGmv3853g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
